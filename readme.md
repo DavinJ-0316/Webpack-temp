@@ -1,4 +1,4 @@
-# Three.js Journey
+https://codepen.io/enxaneta/full/adLPwv
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
