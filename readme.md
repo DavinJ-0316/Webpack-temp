@@ -1,4 +1,5 @@
 https://codepen.io/enxaneta/full/adLPwv
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
